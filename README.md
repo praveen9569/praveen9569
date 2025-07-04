@@ -9,7 +9,7 @@
 - 🧩 Passionate about **DSA**, systems design, and scalable backend architecture
 - 🛠️ Experienced with REST APIs, PostgreSQL, MySQL, and SQLite
 - 🌱 Currently exploring authentication, clean architecture, and DevOps
-- 📚 200-day streak on LeetCode – and counting!
+- 📚 250-day streak on LeetCode – and counting!
 
 ---
 
